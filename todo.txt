@@ -1,0 +1,12 @@
+- services highlight time shorten
+- topbar darken
+- about us block height increase
+- motto breaking
+- reach us new template
+- whatsapp widget
+
+- mobile small work image cropped
+- tab view about not aligned
+- mail integrate
+
+-mobile small reach us not centre
