@@ -645,7 +645,7 @@ section {
 }
 .works .testimonial-item {
   box-sizing: content-box;
-  min-height: 320px;
+  min-height: 220px;
 }
 .works .swiper-pagination {
   margin-top: 30px;
@@ -678,7 +678,7 @@ section {
 @media (max-width: 370px) {
   .work {
     width: 290px;
-    height: 320px;
+    height: 190px;
   }
 }
 
